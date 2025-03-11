@@ -18,6 +18,7 @@ A simple and user-friendly image search application that uses the **Unsplash API
    ```sh
    git clone https://github.com/mkg668777/image-search-app.git
    ```
+   https://mkg668777.github.io/image-search-app/
 2. Navigate to the project folder:
    ```sh
    cd image-search-app
@@ -29,10 +30,8 @@ A simple and user-friendly image search application that uses the **Unsplash API
 ## 🔑 Setup Unsplash API Key
 1. Go to [Unsplash Developers](https://unsplash.com/developers)
 2. Sign in and create an app to get an API key.
-3. Replace `YOUR_UNSPLASH_ACCESS_KEY` in `script.js` with your key:
-   ```js
-   const accessKey = "YOUR_UNSPLASH_ACCESS_KEY";
-   ```
+3.  `vMsJx5AKEnQc_5wkhOFqwHuDCYYUTkdi7FniYymFGn0` in 
+  
 
 ## 📝 License
 This project is open-source and free to use. 😊
